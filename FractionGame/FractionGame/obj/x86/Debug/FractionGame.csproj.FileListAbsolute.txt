@@ -1,0 +1,6 @@
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\FractionGame\bin\Debug\FractionGame.exe
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\FractionGame\bin\Debug\FractionGame.pdb
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\FractionGame\obj\x86\Debug\FractionGame.Properties.Resources.resources
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\FractionGame\obj\x86\Debug\FractionGame.csproj.GenerateResource.Cache
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\FractionGame\obj\x86\Debug\FractionGame.exe
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\FractionGame\obj\x86\Debug\FractionGame.pdb

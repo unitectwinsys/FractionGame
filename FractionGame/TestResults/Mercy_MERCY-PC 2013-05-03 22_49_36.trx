@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9a3e7f2c-3609-4f45-b2e8-60392c1a41c9" name="Mercy@MERCY-PC 2013-05-03 22:49:36" runUser="Mercy-PC\Mercy" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f9b095f7-a8b6-4707-80b4-177e3e71a6fb">
+    <Description>Esta es la configuración de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Mercy_MERCY-PC 2013-05-03 22_49_36">
+      <DeploymentItem filename="C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\FractionGame\bin\Debug\FractionGame.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-03T22:49:36.4963373-06:00" queuing="2013-05-03T22:49:39.2844968-06:00" start="2013-05-03T22:49:39.4955089-06:00" finish="2013-05-03T22:49:48.3190135-06:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="1" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="MERCY-PC" outcome="Error" timestamp="2013-05-03T22:49:48.3170134-06:00">
+        <Text>El proceso del host de pruebas terminó inesperadamente.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestconstructorDefault" storage="c:\users\mercy\documents\github\fractiongame\fractiongame\testprojectfraction\bin\debug\testprojectfraction.dll" id="6e95dd12-0f51-96b1-8d43-c9b0b96878f1">
+      <Execution id="20718a33-9234-4e69-81ef-f059302cb8b0" />
+      <TestMethod codeBase="C:/Users/Mercy/Documents/GitHub/FractionGame/FractionGame/TestProjectFraction/bin/Debug/TestProjectFraction.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectFraction.UnitTest1, TestProjectFraction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestconstructorDefault" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6e95dd12-0f51-96b1-8d43-c9b0b96878f1" executionId="20718a33-9234-4e69-81ef-f059302cb8b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="20718a33-9234-4e69-81ef-f059302cb8b0" testId="6e95dd12-0f51-96b1-8d43-c9b0b96878f1" testName="TestconstructorDefault" computerName="MERCY-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20718a33-9234-4e69-81ef-f059302cb8b0">
+    </UnitTestResult>
+  </Results>
+</TestRun>

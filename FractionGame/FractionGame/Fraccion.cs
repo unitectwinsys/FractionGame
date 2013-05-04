@@ -5,7 +5,9 @@ using System.Text;
 
 namespace FractionGame
 {
-    class Fraccion
+    public class Fraccion
     {
+        public int Numerador { get; set; }
+        public int Denominador { get; set; }
     }
 }

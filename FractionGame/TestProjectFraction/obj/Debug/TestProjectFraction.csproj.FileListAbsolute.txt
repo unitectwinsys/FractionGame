@@ -1,0 +1,7 @@
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\TestProjectFraction\bin\Debug\TestProjectFraction.dll
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\TestProjectFraction\bin\Debug\TestProjectFraction.pdb
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\TestProjectFraction\bin\Debug\FractionGame.exe
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\TestProjectFraction\bin\Debug\FractionGame.pdb
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\TestProjectFraction\obj\Debug\TestProjectFraction.csprojResolveAssemblyReference.cache
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\TestProjectFraction\obj\Debug\TestProjectFraction.dll
+C:\Users\Mercy\Documents\GitHub\FractionGame\FractionGame\TestProjectFraction\obj\Debug\TestProjectFraction.pdb
